@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">finallhayamuhammad</string>
+    <string name="username">USER NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOG IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="forgetmypassword">FORGET MY PASSWORD</string>
+    <string name="name">NAME</string>
+    <string name="email">E-Mail</string>
+    <string name="password1">PASSWORD</string>
+    <string name="repassword">Re-Password</string>
+    <string name="save">SAVE</string>
+</resources>
