@@ -79,6 +79,9 @@ public class SignupActivity extends AppCompatActivity implements View.OnClickLis
         FirebaseAuth.getInstance().signOut();
     }
 
-    {
+
+    @Override
+    public void onClick(View view) {
 
     }
+}

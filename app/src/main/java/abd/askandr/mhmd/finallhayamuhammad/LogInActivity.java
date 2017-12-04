@@ -48,7 +48,7 @@ public class LogInActivity extends AppCompatActivity {
                 if(task.isSuccessful())
                 {
                     Toast.makeText(LogInActivity.this, "signIn Successful.", Toast.LENGTH_SHORT).show();
-                    Intent intent=new Intent(LogInActivity.this,MainListActivity.class);
+                    Intent intent=new Intent(LogInActivity.this,Try.class);
                     startActivity(intent);
                     finish();
                 }
@@ -58,4 +58,6 @@ public class LogInActivity extends AppCompatActivity {
                     task.getException().printStackTrace();
                 }
     }
+    });
     }
+}

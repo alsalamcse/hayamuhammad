@@ -20,7 +20,7 @@
 
         android:onClick="lockMeNow"
 
-        android:text="@string/lock_me"
+        android:text="lock_me"
 
         android:textColor="#FFFF0000"
 
